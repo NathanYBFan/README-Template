@@ -26,10 +26,12 @@ Implimented:
 - C
 
 ## Contributors
-X Contributor(s): NAME
+X Contributor(s):
+  Position: Name
+  Position: Name
 
 ## Other Notees:
 - X% made in Y program
 - ~X% of external assets used
 - Followed a guideline?
-- Future improveements
+- Future improvements
